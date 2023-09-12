@@ -1,1 +1,4 @@
 This is my first git program.
+hey 
+
+i wish you
